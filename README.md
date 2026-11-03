@@ -13,7 +13,9 @@ M.Sc. student in Mechatronics, Robotics and Biomechanical Engineering (MRBE) at 
 
 ### [Learning Trustworthy Human-Robot Collaboration Policies from Human-Human Demonstrations](https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/)
 
-<sub>Master's thesis, Learning Systems and Robotics Lab, TUM, 2026 · paper to be submitted to IEEE RA-L</sub>
+<img src="https://img.shields.io/badge/To%20be%20submitted%20to-IEEE%20RA--L-d73a49?style=for-the-badge" alt="To be submitted to IEEE RA-L">
+
+<sub>Master's thesis, Learning Systems and Robotics Lab, TUM, 2026</sub>
 
 <a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" alt="UR10e robot collaborating with a person" width="400"></a>
 
@@ -25,7 +27,9 @@ M.Sc. student in Mechatronics, Robotics and Biomechanical Engineering (MRBE) at 
 
 ### [CommonRoad-Game: A Human-in-the-Loop Simulation Framework for Autonomous Driving](https://arxiv.org/abs/2607.01382)
 
-<sub><b>Yunfei Bi</b>, Youran Wang · arXiv preprint, 2026 · semester thesis, Cyber-Physical Systems Group, TUM</sub>
+<a href="https://arxiv.org/abs/2607.01382"><img src="https://img.shields.io/badge/arXiv-2607.01382-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv 2607.01382"></a> <img src="https://img.shields.io/badge/First%20author-2026-555555?style=for-the-badge" alt="First author, 2026">
+
+<sub><b>Yunfei Bi</b>, Youran Wang · semester thesis, Cyber-Physical Systems Group, TUM</sub>
 
 <a href="https://github.com/Yunfei-Bi8/CommonRoad-Game"><img src="assets/commonroad_game.gif" alt="CommonRoad-Game simulation with an autonomous and a human-driven vehicle" width="400"></a>
 
