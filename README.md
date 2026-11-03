@@ -15,7 +15,7 @@ M.Sc. student in Mechatronics, Robotics and Biomechanical Engineering (MRBE) at 
 
 <sub>Master's thesis, Learning Systems and Robotics Lab, TUM, 2026 · paper to be submitted to IEEE RA-L</sub>
 
-<a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" alt="UR10e robot collaborating with a person" width="560"></a>
+<a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" alt="UR10e robot collaborating with a person" width="400"></a>
 
 - **HRC from human-human videos:** both people's hand skeletons are recovered from markerless RGB video; one hand drives the gripper, the partner's hand conditions a diffusion policy, and reading every video once per hand teaches both roles, including roles with no robot demonstration (zero-shot).
 - **Embodiment-feasibility safety layer:** the number of forward-diffusion noise steps needed to explain an action chunk is a feasibility score learned from feasible actions alone; a calibrated threshold stops the robot before it attempts a motion its gripper cannot perform.
@@ -27,7 +27,7 @@ M.Sc. student in Mechatronics, Robotics and Biomechanical Engineering (MRBE) at 
 
 <sub><b>Yunfei Bi</b>, Youran Wang · arXiv preprint, 2026 · semester thesis, Cyber-Physical Systems Group, TUM</sub>
 
-<a href="https://github.com/Yunfei-Bi8/CommonRoad-Game"><img src="assets/commonroad_game.gif" alt="CommonRoad-Game simulation with an autonomous and a human-driven vehicle" width="560"></a>
+<a href="https://github.com/Yunfei-Bi8/CommonRoad-Game"><img src="assets/commonroad_game.gif" alt="CommonRoad-Game simulation with an autonomous and a human-driven vehicle" width="400"></a>
 
 - Lightweight human-in-the-loop simulator tightly integrated with [CommonRoad](https://commonroad.in.tum.de/), for testing motion planners with human drivers.
 - Multi-threaded architecture aligns simulation time with wall-clock time (drift 402&nbsp;ms → 1.5&nbsp;ms) for deterministic interaction of autonomous and human-driven vehicles.
