@@ -9,7 +9,7 @@ M.Sc. student in Mechatronics, Robotics and Biomechanical Engineering (MRBE) at 
 
 **More on my website: [bi-yunfei.github.io](https://bi-yunfei.github.io/)**
 
-## Projects
+## Research Highlights
 
 <table>
   <tr>
