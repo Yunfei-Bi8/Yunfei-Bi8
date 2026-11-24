@@ -57,7 +57,7 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 
 ---
 
-### [Delay-Tolerant Formation Tracking for Multi-AGV Systems](https://bi-yunfei.github.io/agv-formation/)
+### [Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling](https://bi-yunfei.github.io/agv-formation/)
 
 <a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="52" alt="Siemens AG"></a>
 
@@ -69,7 +69,7 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 
 - **Cascade design:** delayed Wi-Fi data only shift each AGV's own reference, so stability holds for every bounded delay and any directed, switching communication graph.
 - **On the robots:** C++ implementation with MQTT-based distributed communication, deployed in Docker.
-- **Verified:** audited Lyapunov proofs and 4,894 high-fidelity simulation runs; no instability up to 4&nbsp;s latency and 12 vehicles, formation error &minus;47&nbsp;% after a safety stop.
+- **Verified:** independently reviewed Lyapunov proofs and 4,894 high-fidelity simulation runs; no failure up to 4&nbsp;s latency and 12 vehicles, formation error &minus;47&nbsp;% after a safety stop.
 
 ## Experience
 
