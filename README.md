@@ -101,7 +101,7 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 </tr>
 <tr>
 <td width="200" align="center"><a href="https://www.ce.cit.tum.de/cps/home/"><img src="assets/logos/cps.png" height="46" alt="Cyber-Physical Systems Group, TUM"></a></td>
-<td><b>Cyber-Physical Systems Group, TUM</b> · semester thesis<br><sub>07/2025 – 02/2026 · CommonRoad-Game, human-in-the-loop simulation for autonomous driving</sub></td>
+<td><b>Cyber-Physical Systems Group, TUM</b> · semester thesis<br><sub>07/2025 – 01/2026 · CommonRoad-Game, human-in-the-loop simulation for autonomous driving</sub></td>
 </tr>
 </table>
 
