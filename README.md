@@ -10,7 +10,7 @@
   <a href="mailto:yunfei.bi@tum.de"><img src="https://img.shields.io/badge/Email-yunfei.bi%40tum.de-555555?style=for-the-badge" alt="Email yunfei.bi@tum.de"></a>
 </p>
 
-I am a master's student in Mechatronics, Robotics and Biomechanical Engineering at the [Technical University of Munich (TUM)](https://www.tum.de/en/), after a B.Sc. in Vehicle Engineering at [Tongji University](https://en.tongji.edu.cn/). My interests include **robot learning**, **control theory** and **simulation for autonomous driving**. I wrote my master's thesis at Prof. Schoellig's [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/) and my semester thesis at Prof. Althoff's [Cyber-Physical Systems Group](https://www.ce.cit.tum.de/cps/home/), both at TUM. I was a research intern at [Siemens](https://www.siemens.com/) Technology in Garching and am currently a working student at [Agile Robots SE](https://www.agile-robots.com/).
+I am a master's student in Mechatronics, Robotics and Biomechanical Engineering at the [Technical University of Munich (TUM)](https://www.tum.de/en/), after a B.Sc. in Vehicle Engineering at [Tongji University](https://en.tongji.edu.cn/). My interests include **robot learning**, **control theory** and **simulation for autonomous driving**. I wrote my master's thesis at Prof. Schoellig's [Learning Systems and Robotics Lab](https://www.ce.cit.tum.de/lsy/home/) and my semester thesis at Prof. Althoff's [Cyber-Physical Systems Group](https://www.ce.cit.tum.de/cps/home/), both at TUM. I was a research intern at [Siemens](https://www.siemens.com/) Technology in Garching and a working student at [Agile Robots SE](https://www.agile-robots.com/).
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -90,7 +90,7 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 <table>
 <tr>
 <td width="200" align="center"><a href="https://www.agile-robots.com/"><img src="assets/logos/agile_robots.png" height="46" alt="Agile Robots SE"></a></td>
-<td><b>Agile Robots SE</b>, Munich · working student, foundation models for robotics<br><sub>05/2026 – present · VLA post-training and inference acceleration</sub></td>
+<td><b>Agile Robots SE</b>, Munich · working student, foundation models for robotics<br><sub>05/2026 – 10/2026 · VLA post-training and inference acceleration</sub></td>
 </tr>
 <tr>
 <td width="200" align="center"><a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="46" alt="Learning Systems and Robotics Lab, TUM"></a></td>
