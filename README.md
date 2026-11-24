@@ -27,10 +27,10 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 
 <table>
 <tr>
-<td width="300" valign="top" align="center">
-<a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" width="280" alt="UR10e robot collaborating with a person"></a>
+<td width="320" align="center" valign="top">
+<a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" width="300" alt="UR10e robot collaborating with a person"></a>
 <br><br>
-<a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="30" alt="Learning Systems and Robotics Lab, TUM"></a>
+<a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="54" alt="Learning Systems and Robotics Lab, TUM"></a>
 </td>
 <td valign="top">
 
@@ -39,17 +39,17 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 
 <img src="https://img.shields.io/badge/To%20be%20submitted%20to-IEEE%20RA--L-d73a49?style=flat-square" alt="To be submitted to IEEE RA-L"> <a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
 
-- **Learning from human-human videos:** hand skeletons of both people from markerless RGB video drive and condition a diffusion policy; exchanging roles teaches both sides of a task, including roles with no robot demonstration.
+- **Learning from human-human videos:** hand skeletons of both people drive and condition a diffusion policy; exchanging roles also teaches roles with no robot demonstration.
 - **Embodiment-feasibility safety layer:** a calibrated diffusion-based score stops the robot before motions its gripper cannot perform.
 - **On a UR10e:** 18/20 successes with five robot demonstrations (5/20 robot-only); 19/20 infeasible motions stopped before contact.
 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top" align="center">
-<a href="https://bi-yunfei.github.io/agv-formation/"><img src="assets/agv_formation.gif" width="280" alt="Simulated AGV formation during a safety stop: without coupling (grey) the formation tears apart, with the cascade coupling (blue) the other vehicles wait"></a>
+<td width="320" align="center" valign="top">
+<a href="https://bi-yunfei.github.io/agv-formation/"><img src="assets/agv_formation.gif" width="300" alt="Simulated AGV formation during a safety stop: without coupling (grey) the formation tears apart, with the cascade coupling (blue) the other vehicles wait"></a>
 <br><br>
-<a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="30" alt="Siemens AG"></a>
+<a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="54" alt="Siemens AG"></a>
 </td>
 <td valign="top">
 
@@ -65,10 +65,10 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 </td>
 </tr>
 <tr>
-<td width="300" valign="top" align="center">
-<a href="https://github.com/Yunfei-Bi8/CommonRoad-Game"><img src="assets/commonroad_game.gif" width="220" alt="CommonRoad-Game simulation with an autonomous and a human-driven vehicle"></a>
+<td width="320" align="center" valign="top">
+<a href="https://github.com/Yunfei-Bi8/CommonRoad-Game"><img src="assets/commonroad_game.gif" width="230" alt="CommonRoad-Game simulation with an autonomous and a human-driven vehicle"></a>
 <br><br>
-<a href="https://www.ce.cit.tum.de/cps/home/"><img src="assets/logos/cps.png" height="30" alt="Cyber-Physical Systems Group, TUM"></a>
+<a href="https://www.ce.cit.tum.de/cps/home/"><img src="assets/logos/cps.png" height="54" alt="Cyber-Physical Systems Group, TUM"></a>
 </td>
 <td valign="top">
 
@@ -87,14 +87,23 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 
 ## Experience
 
-<a href="https://www.agile-robots.com/"><img src="assets/logos/agile_robots.png" height="28" alt="Agile Robots SE"></a>&nbsp;
-<a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="28" alt="Siemens AG"></a>&nbsp;
-<a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="28" alt="Learning Systems and Robotics Lab, TUM"></a>&nbsp;
-<a href="https://www.ce.cit.tum.de/cps/home/"><img src="assets/logos/cps.png" height="28" alt="Cyber-Physical Systems Group, TUM"></a>
-
-- **Agile Robots SE** · working student, foundation models for robotics: VLA post-training and inference acceleration · 05/2026 – present
-- **TUM, Learning Systems and Robotics Lab** · master's thesis (03/2026 – present) and teaching assistant for Advanced Robot Learning and Decision Making (04/2026 – 05/2026)
-- **Siemens AG, Technology Center Garching** · research intern, Lyapunov-based formation control of mobile robots · 08/2025 – 11/2025
-- **TUM, Cyber-Physical Systems Group** · semester thesis, CommonRoad-Game · 07/2025 – 02/2026
+<table>
+<tr>
+<td width="200" align="center"><a href="https://www.agile-robots.com/"><img src="assets/logos/agile_robots.png" height="46" alt="Agile Robots SE"></a></td>
+<td><b>Agile Robots SE</b>, Munich · working student, foundation models for robotics<br><sub>05/2026 – present · VLA post-training and inference acceleration</sub></td>
+</tr>
+<tr>
+<td width="200" align="center"><a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="46" alt="Learning Systems and Robotics Lab, TUM"></a></td>
+<td><b>Learning Systems and Robotics Lab, TUM</b> · master's thesis and teaching assistant<br><sub>03/2026 – present · trustworthy human-robot collaboration; TA for Advanced Robot Learning and Decision Making</sub></td>
+</tr>
+<tr>
+<td width="200" align="center"><a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="46" alt="Siemens AG"></a></td>
+<td><b>Siemens AG</b>, Technology Center Garching · research intern<br><sub>08/2025 – 11/2025 · Lyapunov-based formation control of mobile robots</sub></td>
+</tr>
+<tr>
+<td width="200" align="center"><a href="https://www.ce.cit.tum.de/cps/home/"><img src="assets/logos/cps.png" height="46" alt="Cyber-Physical Systems Group, TUM"></a></td>
+<td><b>Cyber-Physical Systems Group, TUM</b> · semester thesis<br><sub>07/2025 – 02/2026 · CommonRoad-Game, human-in-the-loop simulation for autonomous driving</sub></td>
+</tr>
+</table>
 
 <p align="center"><sub>More on <a href="https://bi-yunfei.github.io/">bi-yunfei.github.io</a> · <a href="mailto:yunfei.bi@tum.de">yunfei.bi@tum.de</a></sub></p>
