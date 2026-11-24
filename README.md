@@ -37,11 +37,11 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 **[Learning Trustworthy Human-Robot Collaboration Policies from Human-Human Demonstrations](https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/)**<br>
 <sub>Master's thesis · Learning Systems and Robotics Lab, TUM · 2026</sub>
 
-<img src="https://img.shields.io/badge/To%20be%20submitted%20to-IEEE%20RA--L-d73a49?style=flat-square" alt="To be submitted to IEEE RA-L"> <a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
+<img src="https://img.shields.io/badge/Paper-coming%20soon-d73a49?style=flat-square" alt="Paper coming soon"> <a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
 
 - **Learning from human-human videos:** hand skeletons of both people drive and condition a diffusion policy; exchanging roles also teaches roles with no robot demonstration.
-- **Embodiment-feasibility safety layer:** a calibrated diffusion-based score stops the robot before motions its gripper cannot perform.
-- **On a UR10e:** 18/20 successes with five robot demonstrations (5/20 robot-only); 19/20 infeasible motions stopped before contact.
+- **Embodiment-feasibility safety layer:** X-Diffusion's robot-versus-human discriminator, read at every control cycle and calibrated on successful runs, stops the robot before motions its gripper cannot perform.
+- **Results:** 18/20 successes on a UR10e with five robot demonstrations (5/20 robot-only); in 13,860 simulated runs, 98.3&nbsp;% and 100&nbsp;% of the infeasible runs stopped, at most 0.6&nbsp;% of the feasible ones.
 
 </td>
 </tr>
