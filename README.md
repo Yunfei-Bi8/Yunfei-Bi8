@@ -28,25 +28,6 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 <table>
 <tr>
 <td width="320" align="center" valign="top">
-<a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="assets/hrc.gif" width="300" alt="UR10e robot collaborating with a person"></a>
-<br><br>
-<a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="54" alt="Learning Systems and Robotics Lab, TUM"></a>
-</td>
-<td valign="top">
-
-**[Learning Trustworthy Human-Robot Collaboration Policies from Human-Human Demonstrations](https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/)**<br>
-<sub>Master's thesis · Learning Systems and Robotics Lab, TUM · 2026</sub>
-
-<img src="https://img.shields.io/badge/Paper-coming%20soon-d73a49?style=flat-square" alt="Paper coming soon"> <a href="https://yunfei-bi8.github.io/Trustworthy-HRC-from-Human-human-videos/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
-
-- **Learning from human-human videos:** hand skeletons of both people drive and condition a diffusion policy; exchanging roles also teaches roles with no robot demonstration.
-- **Embodiment-feasibility safety layer:** X-Diffusion's robot-versus-human discriminator, read at every control cycle and calibrated on successful runs, stops the robot before motions its gripper cannot perform.
-- **Results:** 18/20 successes on a UR10e with five robot demonstrations (5/20 robot-only); in 13,860 simulated runs, 98.3&nbsp;% and 100&nbsp;% of the infeasible runs stopped, at most 0.6&nbsp;% of the feasible ones.
-
-</td>
-</tr>
-<tr>
-<td width="320" align="center" valign="top">
 <a href="https://bi-yunfei.github.io/agv-formation/"><img src="assets/agv_formation.gif" width="300" alt="Simulated AGV formation during a safety stop: without coupling (grey) the formation tears apart, with the cascade coupling (blue) the other vehicles wait"></a>
 <br><br>
 <a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="54" alt="Siemens AG"></a>
@@ -93,7 +74,7 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 </tr>
 <tr>
 <td width="200" align="center"><a href="https://www.ce.cit.tum.de/lsy/home/"><img src="assets/logos/lsy_tum.png" height="46" alt="Learning Systems and Robotics Lab, TUM"></a></td>
-<td><b>Learning Systems and Robotics Lab, TUM</b> · master's thesis and teaching assistant<br><sub>03/2026 – present · trustworthy human-robot collaboration; TA for Advanced Robot Learning and Decision Making</sub></td>
+<td><b>Learning Systems and Robotics Lab, TUM</b> · master's thesis and teaching assistant<br><sub>03/2026 – present · TA for Advanced Robot Learning and Decision Making</sub></td>
 </tr>
 <tr>
 <td width="200" align="center"><a href="https://www.siemens.com/"><img src="assets/logos/siemens.png" height="46" alt="Siemens AG"></a></td>
