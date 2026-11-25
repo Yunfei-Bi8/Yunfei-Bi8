@@ -37,11 +37,9 @@ I am a master's student in Mechatronics, Robotics and Biomechanical Engineering 
 **Learning Trustworthy Human-Robot Collaboration Policies from Human-Human Demonstrations**<br>
 <sub>Master's thesis · Learning Systems and Robotics Lab, TUM · 2026</sub>
 
-<img src="https://img.shields.io/badge/Paper-coming%20soon-d73a49?style=flat-square" alt="Paper coming soon"> <img src="https://img.shields.io/badge/Project%20page-coming%20soon-2e62e8?style=flat-square" alt="Project page coming soon">
+Learning human-robot collaboration from videos of two people and a few robot demonstrations.
 
-- **Learning from human-human videos:** hand skeletons of both people drive and condition a diffusion policy; exchanging roles also teaches roles with no robot demonstration.
-- **Embodiment-feasibility safety layer:** X-Diffusion's robot-versus-human discriminator, read at every control cycle and calibrated on successful runs, stops the robot before motions its gripper cannot perform.
-- **Results:** 18/20 successes on a UR10e with five robot demonstrations (5/20 robot-only); in 13,860 simulated runs, 98.3&nbsp;% and 100&nbsp;% of the infeasible runs stopped, at most 0.6&nbsp;% of the feasible ones.
+<img src="https://img.shields.io/badge/Project%20page-coming%20soon-2e62e8?style=flat-square" alt="Project page coming soon">
 
 </td>
 </tr>
