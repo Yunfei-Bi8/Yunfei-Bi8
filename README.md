@@ -54,10 +54,10 @@ Learning human-robot collaboration from videos of two people and a few robot dem
 **[Delay-Tolerant Formation Tracking for Multi-AGV Systems via Reference-Shift Coupling](https://bi-yunfei.github.io/agv-formation/)**<br>
 <sub>arXiv preprint 2026 · research internship at Siemens Technology Center Garching, 2025</sub>
 
-<a href="https://arxiv.org/abs/2611.32409"><img src="https://img.shields.io/badge/arXiv-2611.32409-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv 2611.32409"></a> <a href="https://github.com/Yunfei-Bi8/AGV-2026/tree/release"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code on GitHub"></a> <a href="https://bi-yunfei.github.io/agv-formation/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
+<a href="https://arxiv.org/abs/2611.32409"><img src="https://img.shields.io/badge/arXiv-2611.32409-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv 2611.32409"></a> <a href="https://github.com/Yunfei-Bi8/Delay-tolerant-agv-formation/tree/release"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code on GitHub"></a> <a href="https://bi-yunfei.github.io/agv-formation/"><img src="https://img.shields.io/badge/Project-page-2e62e8?style=flat-square" alt="Project page"></a>
 
-- **Cascade design:** delayed Wi-Fi data only shift each AGV's own reference, so stability holds for every bounded delay and any directed, switching graph.
-- **Verified:** reviewed Lyapunov proofs and 4,894 high-fidelity simulation runs; no failure up to 4&nbsp;s latency and 12 vehicles, formation error &minus;47&nbsp;% after a safety stop.
+- **Cascade design:** delayed Wi-Fi data only shift each AGV's own reference, so the coupling cannot destroy tracking for any bounded delay on directed, switching graphs; a direct coupling of the delayed errors stays stable for every delay only below a gain threshold.
+- **Evaluated:** full Lyapunov proofs and 5,944 simulation runs; the cascade never failed (up to 4&nbsp;s latency and 12 vehicles) and cut the formation error by 47&nbsp;% after a safety stop and by 21&nbsp;% after a traction loss.
 
 </td>
 </tr>
